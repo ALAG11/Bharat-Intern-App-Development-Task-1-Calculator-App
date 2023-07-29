@@ -1,5 +1,5 @@
 # Bharat-Intern-App-Development-Task-1-Calculator-App
-This is my Bharat Intern App Development Internship Task -1 of making a Calculator App. This app is made in Java programming language using Android Studio.
+This is my Bharat Intern App Development Internship Task - 1 of making a Calculator App. This app is made in Java programming language using Android Studio.
 
 If you want to run this app in your system then you can directly clone the repository in your system and then open that cloned repository folder in Android Studio and then you can run the app in Android Studio Mobile Phone Emulator by clicking on run button. \
 \
